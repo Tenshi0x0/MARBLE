@@ -209,3 +209,4 @@ marble/workspace
 marble/logs
 marble/results
 backup/
+marble/environments/minecraft_utils/node_modules/
